@@ -3,7 +3,7 @@ import telegram
 from telegram.ext import Updater, CommandHandler
 
 # Replace with your actual bot token
-TOKEN = "YOUR_BOT_TOKEN"
+TOKEN = "7826234592:AAG3h-LCu1ahZ3ECdFY8yyg62Jk748aKBjw"
 
 # Lists for generating movie information
 adjectives = ["The", "Epic", "Action", "Dark", "Funny", "Strange", "Scary", "Romantic", "Magical", "Mysterious"]
